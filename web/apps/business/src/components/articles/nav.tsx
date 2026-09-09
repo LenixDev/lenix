@@ -31,7 +31,7 @@ export const Nav = (/* { products }: { products: { id: number; title: string }[]
 		// 		icon: Box,
 		// 	})),
 		// },
-		{ path: "/docs", label: "Docs", icon: Book, external: true },
+		{ path: "https://docs.lenix.dev/docs", label: "Docs", icon: Book, external: true },
 		{ path: "https://lenix.dev/contact", label: "Contact", icon: Headset, external: true },
 		{ path: "https://discord.gg/FDp3UZqCtQ", label: "Discord", icon: MessagesSquare, external: true },
 		{ path: "/legal", label: "Legal", icon: Scale },
